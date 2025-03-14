@@ -1,0 +1,9 @@
+{
+	"db_server": "mysql.selfmade.ninja",
+	"db_username": "webzard",
+	"db_password": "Webzard123",
+	"db_name": "webzard_photozard",
+	"base_path": "/",
+	"upload_path": "/home/mohamedhaneef840/photozard/uploads/",
+	"profile_path": "/home/mohamedhaneef840/photozard/profile/"
+}
